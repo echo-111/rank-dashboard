@@ -6,7 +6,7 @@ import moment from "moment";
 const HeaderWrapper = styled("div")({
   width: "100%",
   height: 99,
-  backgroundColor: "#030934",
+  backgroundColor: "#000",
   color: "#fff",
   backgroundImage: "url('/LOGO.png')",
   backgroundRepeat: "no-repeat",
