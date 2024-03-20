@@ -105,13 +105,13 @@ const TableCell = styled("td")({
   },
   "&.blue": {
     "&>span": {
-      backgroundColor: "#E2EDFF",
+      backgroundColor: "#D2EBD3",
       color: "#A5D7A7"
     }
   },
   "&.orange": {
     "&>span": {
-      backgroundColor: "#FFF4E2",
+      backgroundColor: "#FCD0CC",
       color: "#F9A19A"
     }
   }
