@@ -58,19 +58,19 @@ const TableRow = styled("tr")({
     height: 50,
     paddingLeft: 23,
     margin: "0 -5px",
-    background: "#FF9D7C",
+    background: "#CFD3EC",
     borderRadius: 10,
-    boxShadow: "0px 3px 8px rgba(188, 88, 55, 0.51)",
+    boxShadow: "0px 3px 8px rgba(207, 211, 236, 0.51)",
   },
   "&.below": {
     height: 50,
-    backgroundColor: "#F39A7D",
+    backgroundColor: "#9FA8DA",
     borderBottom: "0.5px solid rgba(255, 255, 255, 0.5)",
   },
   "&.firstBelow": {
     marginTop: 50,
     height: 50,
-    backgroundColor: "#F39A7D",
+    backgroundColor: "#9FA8DA",
     borderBottom: "0.5px solid rgba(255, 255, 255, 0.5)",
   },
 });
@@ -107,14 +107,14 @@ const TableCell = styled("td")({
   },
   "&.blue": {
     "&>span": {
-      backgroundColor: "#E2EDFF",
-      color: "#367BF5"
+      backgroundColor: "#D2EBD3",
+      color: "#A5D7A7"
     }
   },
   "&.orange": {
     "&>span": {
-      backgroundColor: "#FFF4E2",
-      color: "#F39200"
+      backgroundColor: "#FCD0CC",
+      color: "#F9A19A"
     }
   }
 });
