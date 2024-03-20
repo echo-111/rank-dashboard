@@ -34,9 +34,9 @@ export const TabText = styled("p")({
 const TitleTab = () => {
   return (
     <TabContent>
-      <ColorBox bc="#367BF5" />
+      <ColorBox bc="#A5D7A7" />
       <TabText>AU</TabText>
-      <ColorBox bc="#F39200" />
+      <ColorBox bc="#F9A19A" />
       <TabText>SG</TabText>
       <DashedLine />
       <TabText>{contentData.charts.average}</TabText>
