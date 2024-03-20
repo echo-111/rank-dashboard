@@ -115,7 +115,7 @@ const TodayRankCard = ({
   //au and sg color
   const bg = showChartData && showChartData.map((x) => {
     let arr = [];
-    x.team === "AU" ? arr.push("#367BF5") : arr.push("#F39200");
+    x.team === "AU" ? arr.push("#A5D7A7") : arr.push("#F9A19A");
     return arr;
   });
 
