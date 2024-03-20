@@ -1,0 +1,519 @@
+{
+  "httpStatus": "OK",
+  "code": 200,
+  "message": "",
+  "data": {
+    "ranking": {
+      "time": "2024-03-20T03:48:15.922",
+      "accountOpenPassing": 5,
+      "accountOpenRank": [
+        {
+          "name": "Ada",
+          "team": "SG"
+        },
+        {
+          "name": "Susie",
+          "team": "SG"
+        },
+        {
+          "name": "Lury",
+          "team": "SG"
+        },
+        {
+          "name": "Nicole",
+          "team": "SG"
+        },
+        {
+          "name": "Molly",
+          "team": "AU"
+        },
+        {
+          "name": "Ella",
+          "team": "AU"
+        },
+        {
+          "name": "Amanda",
+          "team": "AU"
+        },
+        {
+          "name": "Ted",
+          "team": "AU"
+        },
+        {
+          "name": "Kiki",
+          "team": "AU"
+        },
+        {
+          "name": "Panta",
+          "team": "SG"
+        },
+        {
+          "name": "Xavier",
+          "team": "AU"
+        },
+        {
+          "name": "Anna",
+          "team": "AU"
+        },
+        {
+          "name": "Bill",
+          "team": "SG"
+        },
+        {
+          "name": "Jedy",
+          "team": "AU"
+        },
+        {
+          "name": "Kai",
+          "team": "AU"
+        }
+      ],
+      "appDownloadPassing": 4,
+      "appDownloadRank": [
+        {
+          "name": "Lury",
+          "team": "SG"
+        },
+        {
+          "name": "Ada",
+          "team": "SG"
+        },
+        {
+          "name": "Susie",
+          "team": "SG"
+        },
+        {
+          "name": "Amanda",
+          "team": "AU"
+        },
+        {
+          "name": "Ella",
+          "team": "AU"
+        },
+        {
+          "name": "Molly",
+          "team": "AU"
+        },
+        {
+          "name": "Bill",
+          "team": "SG"
+        },
+        {
+          "name": "Nicole",
+          "team": "SG"
+        },
+        {
+          "name": "Ted",
+          "team": "AU"
+        },
+        {
+          "name": "Kiki",
+          "team": "AU"
+        },
+        {
+          "name": "Xavier",
+          "team": "AU"
+        },
+        {
+          "name": "Panta",
+          "team": "SG"
+        },
+        {
+          "name": "Anna",
+          "team": "AU"
+        },
+        {
+          "name": "Jedy",
+          "team": "AU"
+        },
+        {
+          "name": "Kai",
+          "team": "AU"
+        }
+      ],
+      "newFriendPassing": 6,
+      "newFriendRank": [
+        {
+          "name": "Lury",
+          "team": "SG"
+        },
+        {
+          "name": "Ada",
+          "team": "SG"
+        },
+        {
+          "name": "Susie",
+          "team": "SG"
+        },
+        {
+          "name": "Kiki",
+          "team": "AU"
+        },
+        {
+          "name": "Molly",
+          "team": "AU"
+        },
+        {
+          "name": "Ted",
+          "team": "AU"
+        },
+        {
+          "name": "Anna",
+          "team": "AU"
+        },
+        {
+          "name": "Bill",
+          "team": "SG"
+        },
+        {
+          "name": "Ella",
+          "team": "AU"
+        },
+        {
+          "name": "Nicole",
+          "team": "SG"
+        },
+        {
+          "name": "Panta",
+          "team": "SG"
+        },
+        {
+          "name": "Xavier",
+          "team": "AU"
+        },
+        {
+          "name": "Amanda",
+          "team": "AU"
+        },
+        {
+          "name": "Jedy",
+          "team": "AU"
+        },
+        {
+          "name": "Kai",
+          "team": "AU"
+        }
+      ],
+      "depositPassing": 4,
+      "depositRank": [
+        {
+          "name": "Ada",
+          "team": "SG"
+        },
+        {
+          "name": "Molly",
+          "team": "AU"
+        },
+        {
+          "name": "Nicole",
+          "team": "SG"
+        },
+        {
+          "name": "Lury",
+          "team": "SG"
+        },
+        {
+          "name": "Bill",
+          "team": "SG"
+        },
+        {
+          "name": "Kiki",
+          "team": "AU"
+        },
+        {
+          "name": "Susie",
+          "team": "SG"
+        },
+        {
+          "name": "Xavier",
+          "team": "AU"
+        },
+        {
+          "name": "Panta",
+          "team": "SG"
+        },
+        {
+          "name": "Amanda",
+          "team": "AU"
+        },
+        {
+          "name": "Ella",
+          "team": "AU"
+        },
+        {
+          "name": "Anna",
+          "team": "AU"
+        },
+        {
+          "name": "Jedy",
+          "team": "AU"
+        },
+        {
+          "name": "Kai",
+          "team": "AU"
+        },
+        {
+          "name": "Ted",
+          "team": "AU"
+        }
+      ],
+      "phoneRangeFrom": "2024-03-19T16:00:00",
+      "phoneRangeTo": "2024-03-20T03:30:00",
+      "phoneAverageInfo": {
+        "callCount": 10.2,
+        "answerCount": 1.8,
+        "answerRate": 0.1765,
+        "durationTotal": 3.1178,
+        "effectiveDurationTotal": 2.8089
+      },
+      "phonePassing": 5,
+      "phoneRank": [
+        {
+          "name": "Panta",
+          "team": "SG",
+          "sex": "F",
+          "callCount": 50,
+          "answerCount": 8,
+          "answerRate": 0.16,
+          "durationTotal": 4.35,
+          "effectiveDurationTotal": 2.6833
+        },
+        {
+          "name": "Anna",
+          "team": "AU",
+          "sex": "F",
+          "callCount": 30,
+          "answerCount": 2,
+          "answerRate": 0.0667,
+          "durationTotal": 1.4333,
+          "effectiveDurationTotal": 1
+        },
+        {
+          "name": "Ella",
+          "team": "AU",
+          "sex": "F",
+          "callCount": 18,
+          "answerCount": 5,
+          "answerRate": 0.2778,
+          "durationTotal": 2.4333,
+          "effectiveDurationTotal": 1.3833
+        },
+        {
+          "name": "Ted",
+          "team": "AU",
+          "sex": "M",
+          "callCount": 16,
+          "answerCount": 4,
+          "answerRate": 0.25,
+          "durationTotal": 7.4833,
+          "effectiveDurationTotal": 6.9
+        },
+        {
+          "name": "Susie",
+          "team": "SG",
+          "sex": "F",
+          "callCount": 12,
+          "answerCount": 1,
+          "answerRate": 0.0833,
+          "durationTotal": 0.1667,
+          "effectiveDurationTotal": 0
+        },
+        {
+          "name": "Kiki",
+          "team": "AU",
+          "sex": "F",
+          "callCount": 8,
+          "answerCount": 1,
+          "answerRate": 0.125,
+          "durationTotal": 17.3167,
+          "effectiveDurationTotal": 17.3167
+        },
+        {
+          "name": "Amanda",
+          "team": "AU",
+          "sex": "F",
+          "callCount": 7,
+          "answerCount": 4,
+          "answerRate": 0.5714,
+          "durationTotal": 3.2,
+          "effectiveDurationTotal": 2.4667
+        },
+        {
+          "name": "Lury",
+          "team": "SG",
+          "sex": "F",
+          "callCount": 6,
+          "answerCount": 0,
+          "answerRate": 0,
+          "durationTotal": 0,
+          "effectiveDurationTotal": 0
+        },
+        {
+          "name": "Ada",
+          "team": "SG",
+          "sex": "F",
+          "callCount": 5,
+          "answerCount": 1,
+          "answerRate": 0.2,
+          "durationTotal": 5.6667,
+          "effectiveDurationTotal": 5.6667
+        },
+        {
+          "name": "Nicole",
+          "team": "SG",
+          "sex": "F",
+          "callCount": 1,
+          "answerCount": 1,
+          "answerRate": 1,
+          "durationTotal": 4.7167,
+          "effectiveDurationTotal": 4.7167
+        },
+        {
+          "name": "Bill",
+          "team": "SG",
+          "sex": "M",
+          "callCount": 0,
+          "answerCount": 0,
+          "answerRate": 0,
+          "durationTotal": 0,
+          "effectiveDurationTotal": 0
+        },
+        {
+          "name": "Jedy",
+          "team": "AU",
+          "sex": "F",
+          "callCount": 0,
+          "answerCount": 0,
+          "answerRate": 0,
+          "durationTotal": 0,
+          "effectiveDurationTotal": 0
+        },
+        {
+          "name": "Kai",
+          "team": "AU",
+          "sex": "M",
+          "callCount": 0,
+          "answerCount": 0,
+          "answerRate": 0,
+          "durationTotal": 0,
+          "effectiveDurationTotal": 0
+        },
+        {
+          "name": "Molly",
+          "team": "AU",
+          "sex": "F",
+          "callCount": 0,
+          "answerCount": 0,
+          "answerRate": 0,
+          "durationTotal": 0,
+          "effectiveDurationTotal": 0
+        },
+        {
+          "name": "Xavier",
+          "team": "AU",
+          "sex": "M",
+          "callCount": 0,
+          "answerCount": 0,
+          "answerRate": 0,
+          "durationTotal": 0,
+          "effectiveDurationTotal": 0
+        }
+      ],
+      "effectiveCallScore": 643.7333,
+      "effectiveCallRank": [
+        {
+          "name": "Xavier",
+          "team": "AU",
+          "calls": 2,
+          "effectiveCalls": 1
+        },
+        {
+          "name": "Amanda",
+          "team": "AU",
+          "calls": 1290,
+          "effectiveCalls": 269
+        },
+        {
+          "name": "Lury",
+          "team": "SG",
+          "calls": 1173,
+          "effectiveCalls": 233
+        },
+        {
+          "name": "Nicole",
+          "team": "SG",
+          "calls": 293,
+          "effectiveCalls": 69
+        },
+        {
+          "name": "Kiki",
+          "team": "AU",
+          "calls": 788,
+          "effectiveCalls": 164
+        },
+        {
+          "name": "Molly",
+          "team": "AU",
+          "calls": 505,
+          "effectiveCalls": 70
+        },
+        {
+          "name": "Bill",
+          "team": "SG",
+          "calls": 38,
+          "effectiveCalls": 1
+        },
+        {
+          "name": "Panta",
+          "team": "SG",
+          "calls": 732,
+          "effectiveCalls": 140
+        },
+        {
+          "name": "Ella",
+          "team": "AU",
+          "calls": 1914,
+          "effectiveCalls": 332
+        },
+        {
+          "name": "Susie",
+          "team": "SG",
+          "calls": 635,
+          "effectiveCalls": 156
+        },
+        {
+          "name": "Kai",
+          "team": "AU",
+          "calls": 37,
+          "effectiveCalls": 10
+        },
+        {
+          "name": "Ted",
+          "team": "AU",
+          "calls": 724,
+          "effectiveCalls": 150
+        },
+        {
+          "name": "Anna",
+          "team": "AU",
+          "calls": 854,
+          "effectiveCalls": 150
+        },
+        {
+          "name": "Ada",
+          "team": "SG",
+          "calls": 667,
+          "effectiveCalls": 145
+        },
+        {
+          "name": "Jedy",
+          "team": "AU",
+          "calls": 4,
+          "effectiveCalls": 4
+        }
+      ]
+    }
+  },
+  "codeDesc": "OK",
+  "success": true
+}
