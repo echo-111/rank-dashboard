@@ -56,7 +56,7 @@ const TableRow = styled("tr")({
     height: 50,
     paddingLeft: 23,
     margin: "0 -5px",
-    background: "#FF9D7C",
+    background: "#CFD3EC",
     borderRadius: 10,
     boxShadow: "0px 3px 8px rgba(188, 88, 55, 0.51)",
     // "&> *": {
@@ -65,7 +65,7 @@ const TableRow = styled("tr")({
   },
   "&.below": {
     height: 50,
-    backgroundColor: "#F39A7D",
+    backgroundColor: "#9FA8DA",
     borderBottom: "0.5px solid rgba(255, 255, 255, 0.5)",
     // "&> *": {
     //   color: "#FFFFFF"
@@ -106,13 +106,13 @@ const TableCell = styled("td")({
   "&.blue": {
     "&>span": {
       backgroundColor: "#E2EDFF",
-      color: "#367BF5"
+      color: "#A5D7A7"
     }
   },
   "&.orange": {
     "&>span": {
       backgroundColor: "#FFF4E2",
-      color: "#F39200"
+      color: "#F9A19A"
     }
   }
 });
