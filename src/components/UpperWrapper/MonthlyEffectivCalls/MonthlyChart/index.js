@@ -73,12 +73,12 @@ const MonthlyChart = ({ effectiveCallRank, effectiveCallScore }) => {
       const l = sortedData?.map((x) => [x.name]);
       const e = sortedData?.map((x) => {
         let arr = [];
-        x.team === "AU" ? arr.push("#629BFF") : arr.push("#FFC369");
+        x.team === "AU" ? arr.push("#D2EBD3") : arr.push("#FCD0CC");
         return arr;
       });
       const c = sortedData?.map((x) => {
         let arr = [];
-        x.team === "AU" ? arr.push("#367BF5") : arr.push("#F39200");
+        x.team === "AU" ? arr.push("#A5D7A7") : arr.push("#F9A19A");
         return arr;
       });
       const data_1 = sortedData?.map((x) => x.calls - x.effectiveCalls);
@@ -159,13 +159,13 @@ const MonthlyChart = ({ effectiveCallRank, effectiveCallScore }) => {
       <TitleContainer>
         <h2>{contentData.charts.effectiveCalls}</h2>
         <div>
-          <ColorBox bc="#367BF5" />
+          <ColorBox bc="#A5D7A7" />
           <TabText>{contentData.monthly.auCalls}</TabText>
-          <ColorBox bc="#629BFF" />
+          <ColorBox bc="#D2EBD3" />
           <TabText>{contentData.monthly.auEffectiveCalls}</TabText>
-          <ColorBox bc="#F39200" />
+          <ColorBox bc="#F9A19A" />
           <TabText>{contentData.monthly.sgCalls}</TabText>
-          <ColorBox bc="#FFC369" />
+          <ColorBox bc="#FCD0CC" />
           <TabText>{contentData.monthly.sgEffectiveCalls}</TabText>
         </div>
       </TitleContainer>
